@@ -5,6 +5,6 @@ contains example of extracting data from Xml and Edf file formats and saving the
 * Pandas 
 * pyedflib 
 * xml.etree.ElementTree
-* Jupyter Notebook
+* Jupyter Notebook *
 
-** Note : Install Anaconda to get most of the of above mentioned **
+__Install Anaconda to get most of the of above mentioned
